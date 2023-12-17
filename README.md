@@ -1,10 +1,6 @@
-- 👋嗨，我是@CHNtiedan，我来自中国，今年(2023)13岁
-- 👀 我感兴趣的是......
-- 🌱我现在正在学习IT行业...
-- 💞️我创建了一个名为铁蛋团队的团队......
-- 📫 如何联系我？我不想联系（滑稽）
-  
-
+Hi!I am CHNtiedan.I'm from China.
+I like writing code.
+I can use python,c++,java,html...
 
 <!---
 CHNtiedan/CHNtiedan 是一个✨特殊✨存储库，因为它的“README.md”（此文件）出现在您的 GitHub 个人资料上。
