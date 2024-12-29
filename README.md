@@ -1,4 +1,4 @@
-Hi!I am CHNtiedan.I'm from China.
+Hi!I am getNameError.
 I like writing code.
 I can use python,c++,java,html...
 
